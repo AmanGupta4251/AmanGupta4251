@@ -4,17 +4,17 @@ I'm a final-year Electronics and Communication Engineering (ECE) student with a 
 
 ## Areas of Interest:
 - **Embedded Systems:** Designing efficient systems using microcontrollers and circuits.
-- ###Application Development:### Focused on web and mobile platforms.
-- ###Biomedical Engineering:### Exploring projects at the intersection of electronics and healthcare.
+- **Application Development:** Focused on web and mobile platforms.
+- **Biomedical Engineering:** Exploring projects at the intersection of electronics and healthcare.
 
 ## Ongoing Projects
-IBM Internship: Working on application development tasks for web and mobile.
-Biomedical Final-Year Project: Exploring embedded solutions in healthcare technology.
+- **IBM Internship:** Working on application development tasks for web and mobile.
+- **Biomedical Final-Year Project:** Exploring embedded solutions in healthcare technology.
 
 ## Skills
-Programming Languages: C, C++, Python, JavaScript
-Tools & Technologies: Microcontrollers, IR Sensors, L293D Driver, Embedded C, Git, Web Development
-Soft Skills: Problem-solving, teamwork, and leadership
+- **Programming Languages:** C, C++, Python, JavaScript
+- **Tools & Technologies:** Microcontrollers, IR Sensors, L293D Driver, Embedded C, Git, Web Development
+- **Soft Skills:** Problem-solving, teamwork, and leadership
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/aman-kumar-gupta-68a656223/)
