@@ -17,7 +17,7 @@ Tools & Technologies: Microcontrollers, IR Sensors, L293D Driver, Embedded C, Gi
 Soft Skills: Problem-solving, teamwork, and leadership
 
 ## Get in Touch
-- [LinkedIn]([https://github.com](https://www.linkedin.com/in/aman-kumar-gupta-68a656223/))
-- [Email](amankg4251@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aman-kumar-gupta-68a656223/)
+- [Email](mailto:amankg4251@gmail.com)
 
 ## Let’s connect and collaborate on interesting projects!
