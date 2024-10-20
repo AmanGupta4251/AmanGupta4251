@@ -3,7 +3,7 @@
 I'm a final-year Electronics and Communication Engineering (ECE) student with a passion for embedded systems and innovation. I enjoy working on projects that integrate hardware and software to create efficient engineering solutions. Currently, I’m gaining hands-on experience in application development through an internship with Rooman Technologies in collaboration with IBM, VTU, IIT Guwahati, and the Wadhwani Foundation.
 
 ## Areas of Interest:
-- ###Embedded Systems:### Designing efficient systems using microcontrollers and circuits.
+- **Embedded Systems:** Designing efficient systems using microcontrollers and circuits.
 - ###Application Development:### Focused on web and mobile platforms.
 - ###Biomedical Engineering:### Exploring projects at the intersection of electronics and healthcare.
 
